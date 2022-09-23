@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **stylecraze.com Clone**
 
-- 👨‍💻 All of my projects are available at [https://thunderous-profiterole-b63a92.netlify.app](https://thunderous-profiterole-b63a92.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shrishtiprasad.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, mySql**
 
