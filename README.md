@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrishtiprasad12@gmail.com**
 
-- 📄 See my resume at [My Resume](https://drive.google.com/file/d/1etD7-9LwdNzCQOKd_iwc9yTBU1J8xI1T/view?usp=sharing)
+- 📄 See my resume at **[My Resume](https://drive.google.com/file/d/1etD7-9LwdNzCQOKd_iwc9yTBU1J8xI1T/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
