@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrishtiprasad12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1K_oLWMex814bJxu9-ViJJsdkYS3uNl7o](https://drive.google.com/drive/folders/1K_oLWMex814bJxu9-ViJJsdkYS3uNl7o)
+- 📄 Know about my experiences [https://shrishtiprasad.github.io/](https://shrishtiprasad.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
