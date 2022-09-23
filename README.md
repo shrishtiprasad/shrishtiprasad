@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **stylecraze.com Clone**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shrishtiprasad.github.io/)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shrishtiprasad.github.io/)**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, mySql**
 
