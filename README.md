@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrishtiprasad12@gmail.com**
 
-- 📄 See my portfolio at [https://shrishtiprasad.github.io/](https://shrishtiprasad.github.io/)
+- 📄 See my resume at [https://shrishtiprasad.github.io/](https://drive.google.com/file/d/1etD7-9LwdNzCQOKd_iwc9yTBU1J8xI1T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
